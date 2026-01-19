@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Carta de Amor</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</div>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    margin: 0;
+    background: linear-gradient(135deg, #ffdde1, #ee9ca7);
+    font-family: 'Playfair Display', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+  .card {
+    background: #fffaf5;
+    max-width: 480px;
+    padding: 40px;
+    border-radius: 18px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+  }
+
+  h1 {
+    text-align: center;
+    color: #b71c4b;
+    margin-bottom: 25px;
+  }
+
+  .letter {
+    color: #333;
+    line-height: 1.8;
+    font-size: 17px;
+  }
+
+  .signature {
+    margin-top: 35px;
+    text-align: right;
+    font-style: italic;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="card">
+  <h1>💌 Minha Carta Para Você</h1>
+
+  <div class="letter">
+    <p>Meu amor,</p>
+
+    <p>
+     Oii ? boa noite. Não sei por onde começar, até porque minha primeira vez 
+     fazendo isso e eu sou ruim com palavras, mas sendo bem direto.
+    </p>
+
+    <p>
+      Nos últimos meses eu tive e tenho muita certeza que você é a pessoa que 
+      eu quero do meu lado pelo resto da vida, espero que seja como esposo, 
+      não que como amigo seja ruim né, mas, (incrível como eu consigo desviar o foco do assunto).
+      Te amo. Obrigado pela pessoa que você "moldou" em mim. Te acho perfeita, 
+      seu cabelo, seu sorriso (acho até estranho você não postar foto sorrindo),
+       enfim poderia te elogiar o dia todo, mas esse não 100%  é o foco do assunto. 
+    </p>
+
+    <p>
+      Espero que Deus nos ajude nessa trajetória juntos e que ela dure pelo resto de nossas vidas,
+       claramente somos muitos novos pra prometer coisas extraordinárias, mas prometo estar presente
+        com tudo que você precisar, diante de tudo isso. Você quer namorar comigo?
+    </p>
+
+    <p>Com todo o meu amor,</p>
+
+    <div class="signature">
+      ❤️ Seu amor
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
